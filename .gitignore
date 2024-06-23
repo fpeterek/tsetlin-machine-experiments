@@ -1,0 +1,8 @@
+venv/
+a.out
+build/
+compile_commands.json
+__pycache__
+*.py[co]
+*.model
+data/

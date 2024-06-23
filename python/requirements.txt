@@ -1,0 +1,15 @@
+pyTsetlinMachine
+scipy
+click
+scikit-learn
+torch
+torchvision
+matplotlib
+numpy
+pandas
+seaborn
+imbalanced-learn
+opencv-contrib-python
+scikit-image
+tensorflow
+keras
